@@ -1,1 +1,4 @@
+com/cn/record/entity/User.class
 com/cn/record/config/App.class
+com/cn/record/controller/TestController.class
+com/cn/record/entity/ext/People.class
